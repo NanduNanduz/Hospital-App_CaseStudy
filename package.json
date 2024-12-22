@@ -1,0 +1,14 @@
+{
+  "name": "hospital-app_casestudy",
+  "version": "1.0.0",
+  "description": "Hospital App Server Coding",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nandana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

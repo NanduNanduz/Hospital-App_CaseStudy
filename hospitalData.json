@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Ananthapuri Hospital",
+    "count": "300",
+    "location": "Trivandrum"
+  },
+  {
+    "id": 2,
+    "name": "Kims",
+    "count": "500",
+    "location": "Kochi"
+  }
+]
+
+
